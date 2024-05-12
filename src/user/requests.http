@@ -26,7 +26,7 @@ POST http://localhost:3000/auth/signout
 GET http://localhost:3000/auth/4
 
 ### Find all users with a given email
-GET http://localhost:3000/auth?email=asdf@asdf.com
+GET http://localhost:3000/auth?email=moe@hi.com
 
 ### Delete a user given id
 DELETE http://localhost:3000/auth/3
